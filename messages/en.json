@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Home",
+    "expertise": "Areas of Expertise",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Control Systems for Hydroelectric Power Plants",
+    "subtitle": "Complete automation and supervision solutions since 2011",
+    "cta": "Discover our solutions",
+    "experience": "years of experience",
+    "projects": "completed projects",
+    "countries": "countries"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "Complete expertise in control and command systems",
+    "viewMore": "Learn more"
+  },
+  "references": {
+    "title": "Our References",
+    "subtitle": "Over 14 years of experience worldwide",
+    "allYears": "All years",
+    "allCountries": "All countries",
+    "allPowers": "All powers",
+    "allTypes": "All types",
+    "projectsList": "Projects List",
+    "ourLocation": "Our Location",
+    "seeOnMaps": "View on Google Maps",
+    "newProject": "New project",
+    "modernization": "Modernization / Rehabilitation",
+    "services": "Services",
+    "atPyrenees": "At the foot of the Pyrenees in South-West France"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is here to help with your needs",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Error sending message. Please try again.",
+    "required": "Required fields",
+    "address": "Address",
+    "atPyrenees": "At the foot of the Pyrenees, South-West France",
+    "legalRepresentative": "Legal Representative",
+    "siteManager": "Site Manager",
+    "legalInfo": "Legal Information",
+    "responsible": "Responsible",
+    "design": "Design",
+    "hosting": "Hosting",
+    "complaints": "Complaints",
+    "contactUs": "Contact us",
+    "sendMessage": "Send us a message"
+  },
+  "footer": {
+    "description": "Specialist in control and command systems for hydroelectric power plants since 2011.",
+    "navigation": "Navigation",
+    "expertise": "Areas of Expertise",
+    "contact": "Contact",
+    "director": "Director: Mr. Laurent LOPES"
+  },
+  "products": {
+    "automatisme": {
+      "title": "Automation",
+      "subtitle": "Control Command Cabinets",
+      "description": "Custom solutions for operating your installations"
+    },
+    "scada": {
+      "title": "SCADA / Supervision",
+      "subtitle": "Intelligent and Secure Supervision",
+      "description": "Supervision and remote management systems"
+    },
+    "vitesse": {
+      "title": "Speed Regulation",
+      "subtitle": "Controllers for Kaplan, Francis and Pelton turbines",
+      "description": "Precise turbine speed control"
+    },
+    "tension": {
+      "title": "Voltage Regulation",
+      "subtitle": "Static Excitation Cabinets and Voltage Regulation",
+      "description": "Our expertise in controlling the excitation chain of your alternators"
+    },
+    "protections": {
+      "title": "Electrical Protection",
+      "subtitle": "Engineering and Commissioning Expertise for Electrical Protection Systems",
+      "description": "Protection systems for alternators"
+    },
+    "instrumentation": {
+      "title": "Instrumentation",
+      "subtitle": "Supply, installation and commissioning",
+      "description": "Sensors and measurements"
+    },
+    "ingenierie": {
+      "title": "Electrical System Engineering",
+      "subtitle": "HV Substations, Auxiliary Distributions, Auxiliary Systems",
+      "description": "Studies and design"
+    },
+    "dataVisualisation": {
+      "title": "Data Visualization and Reports",
+      "subtitle": "Industry 4.0 - IoT - BigData",
+      "description": "Transform your data into competitive advantage"
+    }
+  },
+  "common": {
+    "readMore": "Read more",
+    "backToProducts": "Back to products",
+    "getQuote": "Request a quote",
+    "contactUs": "Contact us",
+    "learnMore": "Learn more",
+    "requestQuote": "Request a quote",
+    "requestDemo": "Request a demo",
+    "requestStudy": "Request a study",
+    "features": "Features",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "advantages": "Advantages"
+  }
+}

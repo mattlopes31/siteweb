@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "expertise": "Áreas de Competencia",
+    "references": "Referencias",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Control y Comando para Centrales Hidroeléctricas",
+    "subtitle": "Soluciones completas de automatización y supervisión desde 2011",
+    "cta": "Descubrir nuestras soluciones",
+    "experience": "años de experiencia",
+    "projects": "proyectos realizados",
+    "countries": "países"
+  },
+  "solutions": {
+    "title": "Nuestras Soluciones",
+    "subtitle": "Experiencia completa en sistemas de control-comando",
+    "viewMore": "Más información"
+  },
+  "references": {
+    "title": "Nuestras Referencias",
+    "subtitle": "Más de 14 años de experiencia en todo el mundo",
+    "allYears": "Todos los años",
+    "allCountries": "Todos los países",
+    "allPowers": "Todas las potencias",
+    "allTypes": "Todos los tipos",
+    "projectsList": "Lista de Proyectos",
+    "ourLocation": "Nuestra Ubicación",
+    "seeOnMaps": "Ver en Google Maps",
+    "newProject": "Nuevo proyecto",
+    "modernization": "Modernización / Rehabilitación",
+    "services": "Servicios",
+    "atPyrenees": "Al pie de los Pirineos en el suroeste de Francia"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Nuestro equipo está a su disposición para atender sus necesidades",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito!",
+    "error": "Error al enviar. Por favor, inténtelo de nuevo.",
+    "required": "Campos obligatorios",
+    "address": "Dirección",
+    "atPyrenees": "Al pie de los Pirineos, suroeste de Francia",
+    "legalRepresentative": "Representante Legal",
+    "siteManager": "Responsable del sitio",
+    "legalInfo": "Información Legal",
+    "responsible": "Responsable",
+    "design": "Diseño",
+    "hosting": "Alojamiento",
+    "complaints": "Reclamaciones",
+    "contactUs": "Contáctenos",
+    "sendMessage": "Envíenos un mensaje"
+  },
+  "footer": {
+    "description": "Especialista en sistemas de control y comando para centrales hidroeléctricas desde 2011.",
+    "navigation": "Navegación",
+    "expertise": "Áreas de Competencia",
+    "contact": "Contacto",
+    "director": "Director: Sr. Laurent LOPES"
+  },
+  "products": {
+    "automatisme": {
+      "title": "Automatización",
+      "subtitle": "Armarios de Control y Comando",
+      "description": "Soluciones a medida para el control de sus instalaciones"
+    },
+    "scada": {
+      "title": "SCADA / Supervisión",
+      "subtitle": "Supervisión Inteligente y Segura",
+      "description": "Sistemas de supervisión y telegestión"
+    },
+    "vitesse": {
+      "title": "Regulación de Velocidad",
+      "subtitle": "Reguladores para turbinas Kaplan, Francis y Pelton",
+      "description": "Control preciso de velocidad de turbinas"
+    },
+    "tension": {
+      "title": "Regulación de Tensión",
+      "subtitle": "Armarios de Excitación Estática y Regulación de Tensión",
+      "description": "Nuestra experiencia en el control de la cadena de excitación de sus alternadores"
+    },
+    "protections": {
+      "title": "Protección Eléctrica",
+      "subtitle": "Experiencia en Ingeniería y Puesta en Servicio de Sistemas de Protección Eléctrica",
+      "description": "Sistemas de protección para alternadores"
+    },
+    "instrumentation": {
+      "title": "Instrumentación",
+      "subtitle": "Suministro, instalación y puesta en servicio",
+      "description": "Sensores y mediciones"
+    },
+    "ingenierie": {
+      "title": "Ingeniería del Sistema Eléctrico",
+      "subtitle": "Subestaciones AT, Distribuciones auxiliares, Sistemas Auxiliares",
+      "description": "Estudios y diseño"
+    },
+    "dataVisualisation": {
+      "title": "Visualización de Datos e Informes",
+      "subtitle": "Industria 4.0 - IoT - BigData",
+      "description": "Transforme sus datos en ventaja competitiva"
+    }
+  },
+  "common": {
+    "readMore": "Leer más",
+    "backToProducts": "Volver a productos",
+    "getQuote": "Solicitar presupuesto",
+    "contactUs": "Contáctenos",
+    "learnMore": "Más información",
+    "requestQuote": "Solicitar presupuesto",
+    "requestDemo": "Solicitar demostración",
+    "requestStudy": "Solicitar estudio",
+    "features": "Características",
+    "specifications": "Especificaciones",
+    "applications": "Aplicaciones",
+    "advantages": "Ventajas"
+  }
+}

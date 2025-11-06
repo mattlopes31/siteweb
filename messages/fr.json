@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "expertise": "Domaines de compétences",
+    "references": "Références",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Contrôle Commande pour Centrales Hydroélectriques",
+    "subtitle": "Solutions complètes d'automatisme et de supervision depuis 2011",
+    "cta": "Découvrir nos solutions",
+    "experience": "ans d'expérience",
+    "projects": "projets réalisés",
+    "countries": "pays"
+  },
+  "solutions": {
+    "title": "Nos Solutions",
+    "subtitle": "Expertise complète en systèmes de contrôle-commande",
+    "viewMore": "En savoir plus"
+  },
+  "references": {
+    "title": "Nos Références",
+    "subtitle": "Plus de 14 ans d'expérience à travers le monde",
+    "allYears": "Toutes les années",
+    "allCountries": "Tous les pays",
+    "allPowers": "Toutes les puissances",
+    "allTypes": "Tous les types",
+    "projectsList": "Liste des Projets",
+    "ourLocation": "Notre Localisation",
+    "seeOnMaps": "Voir sur Google Maps",
+    "newProject": "Nouveau projet",
+    "modernization": "Modernisation / Réhabilitation",
+    "services": "Services",
+    "atPyrenees": "Au pied des Pyrénées dans le Sud-Ouest de la France"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est à votre disposition pour répondre à vos besoins",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès !",
+    "error": "Erreur lors de l'envoi. Veuillez réessayer.",
+    "required": "Champs obligatoires",
+    "address": "Adresse",
+    "atPyrenees": "Au pied des Pyrénées, Sud-Ouest de la France",
+    "legalRepresentative": "Représentant légal",
+    "siteManager": "Responsable du site",
+    "legalInfo": "Informations légales",
+    "responsible": "Responsable",
+    "design": "Conception",
+    "hosting": "Hébergeur",
+    "complaints": "Réclamations",
+    "contactUs": "Nous contacter",
+    "sendMessage": "Envoyez-nous un message"
+  },
+  "footer": {
+    "description": "Spécialiste en systèmes de contrôle commande pour centrales hydroélectriques depuis 2011.",
+    "navigation": "Navigation",
+    "expertise": "Domaines de compétences",
+    "contact": "Contact",
+    "director": "Directeur : M. Laurent LOPES"
+  },
+  "products": {
+    "automatisme": {
+      "title": "Automatisme",
+      "subtitle": "Armoires de Contrôle Commande",
+      "description": "Solutions sur mesure pour le pilotage de vos installations"
+    },
+    "scada": {
+      "title": "SCADA / Supervision",
+      "subtitle": "Supervision Intelligente et Sécurisée",
+      "description": "Systèmes de supervision et télégestion"
+    },
+    "vitesse": {
+      "title": "Régulations de vitesse",
+      "subtitle": "Régulateurs pour turbines Kaplan, Francis et Pelton",
+      "description": "Contrôle précis de la vitesse des turbines"
+    },
+    "tension": {
+      "title": "Régulations de Tension",
+      "subtitle": "Armoires d'Excitation Statique et de Régulation de Tension",
+      "description": "Notre expertise en contrôle de la chaîne d'excitation de vos alternateurs"
+    },
+    "protections": {
+      "title": "Protection électrique",
+      "subtitle": "Expertise en Ingénierie et Mise en Service de Systèmes de Protection Électrique",
+      "description": "Systèmes de protection pour alternateurs"
+    },
+    "instrumentation": {
+      "title": "Instrumentation",
+      "subtitle": "Fourniture, installation et mise en service",
+      "description": "Capteurs et mesures"
+    },
+    "ingenierie": {
+      "title": "Ingénierie du système électrique",
+      "subtitle": "Postes HTA, Distributions des auxiliaires, Systèmes Auxiliaires",
+      "description": "Études et conception"
+    },
+    "dataVisualisation": {
+      "title": "Visualisation de données et rapports",
+      "subtitle": "Industrie 4.0 - IoT - BigData",
+      "description": "Transformez vos données en avantage compétitif"
+    }
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "backToProducts": "Retour aux produits",
+    "getQuote": "Demander un devis",
+    "contactUs": "Nous contacter",
+    "learnMore": "En savoir plus",
+    "requestQuote": "Demander un devis",
+    "requestDemo": "Demander une démo",
+    "requestStudy": "Demander une étude",
+    "features": "Fonctionnalités",
+    "specifications": "Spécifications",
+    "applications": "Applications",
+    "advantages": "Avantages"
+  }
+}

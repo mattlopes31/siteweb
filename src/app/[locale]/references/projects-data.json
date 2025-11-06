@@ -1,0 +1,331 @@
+[
+  {
+    "year": 2025,
+    "name": "Centrale Pocosol",
+    "country": "Costa Rica",
+    "power": "2x15000KVA",
+    "type": "Modernisation",
+    "src": "/images/4_reduit.jpg"
+  },
+  {
+    "year": 2025,
+    "name": "Centrale Agua Gata",
+    "country": "Costa Rica",
+    "power": "1x2500KVA",
+    "type": "Modernisation",
+    "src": "/images/Central-Hidroelectrica-San-Lorenzo.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Centrale de Boali 1",
+    "country": "Centrafrique",
+    "power": "5x2200KVA",
+    "type": "Modernisation complète",
+    "src": "/images/20240209_08564.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Central Chocosuela 3",
+    "country": "Costa Rica",
+    "power": "1x5720KVA",
+    "type": "Modernisation",
+    "src": "/images/Central-Hidroelectrica-Sigifredo-Solis-Solis.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Central La Esperanza",
+    "country": "Costa Rica",
+    "power": "2x3250KVA",
+    "type": "Modernisation",
+    "src": "/images/20201116_07513.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Valloirette",
+    "country": "France (73)",
+    "power": "1x2500KVA + 1x810KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20240614_18300.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Noyelles Sous Lens",
+    "country": "France (62)",
+    "power": "1x1000KVA",
+    "type": "Modernisation",
+    "src": "/images/20201006_17115.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Centrale du Bessans",
+    "country": "France (73)",
+    "power": "1x800KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20240930_12175_reduit.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Centrale de Rwanguba",
+    "country": "RDC",
+    "power": "2x15000KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20201119_07402.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Centrale de St Maurice G1",
+    "country": "France (05)",
+    "power": "1x5700KVA",
+    "type": "Modernisation",
+    "src": "/images/20210410_07594.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Central Birris 1",
+    "country": "Costa Rica",
+    "power": "1x10000KVA",
+    "type": "Modernisation",
+    "src": "/images/20210423_17343.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Central Tuis",
+    "country": "Costa Rica",
+    "power": "1x2100KVA",
+    "type": "Modernisation",
+    "src": "/images/20240209_07543.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Dolega et Macho de Monte",
+    "country": "Panamá",
+    "power": "5x2000KVA",
+    "type": "Modernisation SCADA",
+    "src": "/images/20230609_11362.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Oxec I",
+    "country": "Guatemala",
+    "power": "2x15000KVA",
+    "type": "Modernisation",
+    "src": "/images/20230615_10241.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Les Arcs",
+    "country": "France (05)",
+    "power": "1x500KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20231029_15493.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Serre Chevalier - Villeneuve",
+    "country": "France (05)",
+    "power": "1x1150KVA",
+    "type": "Nouveau projet",
+    "src": "/images/DJI_0705_reduit.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Centrale du Merlet",
+    "country": "France (73)",
+    "power": "1x3800KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20251024_15304.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Central El General",
+    "country": "Costa Rica",
+    "power": "2x25000KVA",
+    "type": "Modernisation SCADA",
+    "src": "/images/CM-lado-Este-de-Rio-Lajas-scaled.png"
+  },
+  {
+    "year": 2022,
+    "name": "Barrage de Vierzon",
+    "country": "France (18)",
+    "power": "-",
+    "type": "Automatisation",
+    "src": "/images/20251024_16291.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Central Cubujuqui",
+    "country": "Costa Rica",
+    "power": "2x15000KVA",
+    "type": "Modernisation complète",
+    "src": "/images/20207016_07585.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Central Platanar",
+    "country": "Costa Rica",
+    "power": "2x7920KVA",
+    "type": "Modernisation",
+    "src": "/images/20240208_17264.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Ensemble de 7 centrales",
+    "country": "France (46,65)",
+    "power": "-",
+    "type": "Télégestion",
+    "src": "/images/20250207_13210.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Centrale de Tignes",
+    "country": "France (73)",
+    "power": "1x210KW",
+    "type": "Nouveau projet",
+    "src": "/images/20250207_13212.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Poste de Kalemie",
+    "country": "RDC",
+    "power": "30MW",
+    "type": "Modernisation poste HTA",
+    "src": "/images/Armoire_protection_et_synchronisation_reduit.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Central Canalete",
+    "country": "Costa Rica",
+    "power": "2x10350KVA",
+    "type": "Modernisation",
+    "src": "/images/20231211_07435.jpg"
+  },
+  {
+    "year": 2020,
+    "name": "Moulin de Villars",
+    "country": "France (86)",
+    "power": "2x600KW",
+    "type": "Modernisation",
+    "src": "/images/Dashboard_Ewon.png"
+  },
+  {
+    "year": 2020,
+    "name": "Central San Lorenzo",
+    "country": "Costa Rica",
+    "power": "2x8650KVA",
+    "type": "Modernisation",
+    "src": "/images/Central-Hidroelectrica-San-Lorenzo.jpg"
+  },
+  {
+    "year": 2020,
+    "name": "Centrale du Haut Bens",
+    "country": "France (38)",
+    "power": "1900KVA",
+    "type": "Nouveau projet",
+    "src": "/images/DJI_0705.JPG"
+  },
+  {
+    "year": 2019,
+    "name": "Centrale de Sanga - Phase 2",
+    "country": "RDC",
+    "power": "3x3750KVA",
+    "type": "Réhabilitation complète",
+    "src": "/images/20201116_07513.jpg"
+  },
+  {
+    "year": 2019,
+    "name": "Centrale de Bendera",
+    "country": "RDC",
+    "power": "2x10750KVA",
+    "type": "Réhabilitation complète",
+    "src": "/images/20201119_07402.jpg"
+  },
+  {
+    "year": 2019,
+    "name": "Centrale des Moulins",
+    "country": "France (38)",
+    "power": "2x8000KVA",
+    "type": "Modernisation",
+    "src": "/images/20210410_07594.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Zoti HEPP",
+    "country": "Géorgie",
+    "power": "1x25245KVA + 2x14555KVA",
+    "type": "Ingénierie complète",
+    "src": "/images/4.jpg"
+  },
+  {
+    "year": 2017,
+    "name": "Centrale de Sahanivotry",
+    "country": "Madagascar",
+    "power": "3x6875KVA",
+    "type": "Modernisation",
+    "src": "/images/20240209_08564.jpg"
+  },
+  {
+    "year": 2016,
+    "name": "Centrale de Sanga",
+    "country": "RDC",
+    "power": "3x3750KVA",
+    "type": "Réhabilitation complète",
+    "src": "/images/20210423_17343.jpg"
+  },
+  {
+    "year": 2015,
+    "name": "Central Chocosuela",
+    "country": "Costa Rica",
+    "power": "2x7200KVA",
+    "type": "Modernisation",
+    "src": "/images/20231029_15493.jpg"
+  },
+  {
+    "year": 2015,
+    "name": "Centrale du Bazacle",
+    "country": "France (31)",
+    "power": "7 groupes",
+    "type": "Modernisation",
+    "src": "/images/20240930_12175_reduit.jpg"
+  },
+  {
+    "year": 2014,
+    "name": "Kalen & AKSU HEPP",
+    "country": "Turquie",
+    "power": "5 groupes",
+    "type": "SCADA cascade",
+    "src": "/images/alt.png"
+  },
+  {
+    "year": 2013,
+    "name": "Pont des moines",
+    "country": "France (15)",
+    "power": "3x1700KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20250207_13212.jpg"
+  },
+  {
+    "year": 2012,
+    "name": "Sirimtas HEPP",
+    "country": "Turquie",
+    "power": "2x15100KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20251024_16291.jpg"
+  },
+  {
+    "year": 2012,
+    "name": "ZINGUIZAPA",
+    "country": "Honduras",
+    "power": "1x3200KVA",
+    "type": "Nouveau projet",
+    "src": "/images/20240614_18300.jpg"
+  },
+  {
+    "year": 2011,
+    "name": "Central Aguas Zarcas",
+    "country": "Costa Rica",
+    "power": "3 groupes",
+    "type": "Modernisation SCADA",
+    "src": "/images/arc 4.png"
+  }
+]
+
